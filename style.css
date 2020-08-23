@@ -1,0 +1,100 @@
+body{
+    position: relative;
+    background: #FFFFFF;
+    background-size: cover;
+
+}
+#d1{
+    position: absolute;
+width: 800px;
+height: 510px;
+margin-left: 20%;
+margin-top: 4%;
+background: #FFFFFF;
+box-shadow: 13px -9px 4px rgba(0, 0, 0, 0.25);
+border-radius: 45px;
+}
+#d2{
+    position: absolute;
+    width: 800px;
+    height: 490px;
+    margin-left: 20%;
+    margin-top: 6%;
+    background: #FFFFFF;
+    box-shadow: 13px -9px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+}
+#d3{
+    position: absolute;
+    width: 800px;
+    height: 480px;
+    margin-left: 20%;
+    margin-top: 8%;
+    background: #FFFFFF;
+    box-shadow: 13px -9px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 45px;
+}
+h1{
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 0%;
+    width: 310%;
+font-family: Rancho;
+font-style: normal;
+font-weight: normal;
+font-size: 55px;
+line-height: 35px;
+/* identical to box height */
+
+letter-spacing: 0.3em;
+
+color: rgba(0, 0, 0, 0.72);
+
+}
+#inbox{
+width: 170px;
+height: 120px;
+    margin-left: 120%;
+    margin-top: 2%;
+}
+#waves{
+margin-top: -2%;  
+width:102.2% ;
+height: 340px;
+
+background: url(image.png);
+border-radius: 45px;
+}
+#txt{
+    position: absolute;
+width: 80%;
+height: 65px;
+text-align: center;
+font-family: Raleway;
+margin-top: -250px;
+margin-left: 6%;
+font-size: 20px;
+line-height: 31px;
+letter-spacing: 0.04em;
+
+color: rgba(0, 0, 0, 0.89);
+}
+#btn{
+    position: absolute;
+width: 200px;
+height: 40px;
+    margin-left: 35%;
+    margin-top: -30%;
+color: aliceblue;
+    font-size: 16px;
+background: rgba(250, 16, 16, 0.85);
+border-radius: 25px;
+}
+#footer{
+    margin-left: 25%;
+    margin-top: -5%;
+    font-family: Radley;
+}
+ {
+  box-sizing: content-box;
+}
